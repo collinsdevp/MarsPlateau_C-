@@ -1,0 +1,16 @@
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\bin\Debug\net6.0\MarsPlateau.exe
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\bin\Debug\net6.0\MarsPlateau.deps.json
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\bin\Debug\net6.0\MarsPlateau.runtimeconfig.json
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\bin\Debug\net6.0\MarsPlateau.dll
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\bin\Debug\net6.0\MarsPlateau.pdb
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.csproj.AssemblyReference.cache
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.AssemblyInfoInputs.cache
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.AssemblyInfo.cs
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.csproj.CoreCompileInputs.cache
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.dll
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\refint\MarsPlateau.dll
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.pdb
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\MarsPlateau.genruntimeconfig.cache
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\obj\Debug\net6.0\ref\MarsPlateau.dll
+C:\Users\ogbon\OneDrive\Desktop\mars test\MySolution\MarPlateau\bin\Debug\net6.0\MarsPlateau.dll.config
